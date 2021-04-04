@@ -8,10 +8,25 @@ DataCamp is an online learning platform that helps students build data skills at
 # Content
 ### A. Python Projects
        Project 1: Analyzing TV Data
+       Description: Use data manipulation and visualization to explore one of two different television broadcast datasets. The Super Bowl and hit sitcom The Office!
+       Technologies used: Data Manipualtion, Data Visualization, Importing and Cleaning Data
        Project 2: The Android App Market on Google Play
+       Description: In this project, you will do a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different  
+       categories. You'll look for insights in the data to devise strategies to drive growth and retention. The data for this project was scraped from the Google Play
+       website.
+       Technologies used: Data Manipulation, Data Visualization, Probability & Statistics, Importing & Cleaning Data
        Project 3: The GitHub History of the Scala Language
+       Description: Open source projects contain entire development histories, such as who made changes, the changes themselves, and code reviews. In this project, you'll be
+       challenged to read in, clean up, and visualize the real-world project repository of Scala that spans data from a version control system (Git) as well as a project hosting
+       site (GitHub). With almost 30,000 commits and a history spanning over ten years, Scala is a mature language. You will find out who has had the most influence on its
+       development and who are the experts.
+       Technologies used:Data Manipulation, Data Visualization, Importing & Cleaning Data
        Project 4: A Visual History of Nobel Prize Winners
+       Description:Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed?
+       Technologies used: Data Manipulation, Data Visualization, Importing & Cleaning Data
        Project 5: Dr. Semmelweis and the Discovery of Handwashing
+       Description: Reanalyse the data behind one of the most important discoveries of modern medicine: handwashing.
+       Technologies used:Data Manipulation, Data Visualization, Probability & Statistics, Importing & Cleaning Data
        Project 6: Risk and Return: The Sharpe Ratio
        Project 7: A network analysis of Game of Thrones
        Project 8: Exploring the Bitcoin Cryptocurrency Market
