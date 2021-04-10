@@ -8,6 +8,7 @@ DataCamp is an online learning platform that helps students build data skills at
 # Content
 ### A. Python Projects
        Project 1: Analyzing TV Data
+                     
        Project 2: The Android App Market on Google Play
        Project 3: The GitHub History of the Scala Language
        Project 4: A Visual History of Nobel Prize Winners
