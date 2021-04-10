@@ -9,12 +9,13 @@ DataCamp is an online learning platform that helps students build data skills at
 ### A. Python Projects
 
 |Projects|Description|
-| ------------:  | :---------------: |
+| :------------:  | :---------------: |
 |   Analyzing TV Data      |Use data manipulation and visualization to explore one of two different television broadcast datasets. The Super Bowl and hit sitcom The Office! Technologies Used: Data Manipualtion, Data Visualization, Importing and Cleaning Data|
 |The Android App Market on Google Play |In this project, you will do a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different  categories. You'll look for insights in the data to devise strategies to drive growth and retention. The data for this project was scraped from the Google Play website. Techologies Used: Data Manipulation, Data Visualization, Probability & Statistics, Importing & Cleaning Data|
 |The GitHub History of the Scala Language|Open source projects contain entire development histories, such as who made changes, the changes themselves, and code reviews. In this project, you'll be challenged to read in, clean up, and visualize the real-world project repository of Scala that spans data from a version control system (Git) as well as a project hosting site (GitHub). With almost 30,000 commits and a history spanning over ten years, Scala is a mature language. You will find out who has had the most influence on its development and who are the experts.|Technologies used:Data Manipulation, Data Visualization, Importing & Cleaning Data|
 |A Visual History of Nobel Prize Winners|Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed?.Technologies used: Data Manipulation, Data Visualization, Importing & Cleaning Data|
 |Dr. Semmelweis and the Discovery of Handwashing|Reanalyse the data behind one of the most important discoveries of modern medicine: handwashing.Technologies used:Data Manipulation, Data Visualization, Probability & Statistics, Importing & Cleaning Data|
+|Predicting Credit Card Approvals|Build a machine learning model to predict if a credit card application will get approved. Technologies Used:Data Manipulation, Machine Learning, Importing & Cleaning Data, Applied Finance|
 |Risk and Return: The Sharpe Ratio|..|
 |A network analysis of Game of Thrones|..|
 |Exploring the Bitcoin Cryptocurrency Market|..|
@@ -33,7 +34,6 @@ DataCamp is an online learning platform that helps students build data skills at
 |Which Debts Are Worth the Bank's Efforts?|..|
 |ASL Recognition with Deep Learning|..|
 |Naive Bees: Deep Learning with Images|..|
-|Predicting Credit Card Approvals|..|
 |Book Recommendations from Charles Darwin|..|
 |Extract Stock Sentiment from News Headlines|..|
 |Give Life Predict Blood Donations|..|
